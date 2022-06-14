@@ -3,6 +3,8 @@ the rainbow
 purple
 orange
 blue
+yellow
+red
 indigo
 pink
 turquoise
